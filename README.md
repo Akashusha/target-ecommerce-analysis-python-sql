@@ -6,8 +6,6 @@ Analyzing customer behavior, sales trends, and revenue growth for a Target-like 
 
 <a href="#overview">Overview</a>
 
-<a href="#business-problem">Business Problem</a>
-
 <a href="#dataset">Dataset</a>
 
 <a href="#tools--technologies">Tools & Technologies</a>
@@ -33,20 +31,6 @@ The analysis combines SQL for querying and business metrics calculation with Pyt
 
 The goal is to derive actionable insights related to customer behavior, sales performance, growth trends, and retention.
 
-<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
-
-E-commerce businesses must understand what sells, when it sells, and who their best customers are.
-This project answers key business questions such as:
-
-How are sales and orders trending over time?
-
-Which categories and sellers contribute most to revenue?
-
-What is the customer retention behavior?
-
-How does pricing affect purchase frequency?
-
-Who are the highest-value customers each year?
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
