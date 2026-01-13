@@ -109,45 +109,7 @@ target-ecommerce-analysis/
 │   └── ecommerce_dataset.csv
 ```
 
-<h2><a class="anchor" id="sql-analysis--queries-covered"></a>SQL Analysis – Queries Covered</h2>
 
-The project includes Basic, Intermediate, and Advanced SQL queries, demonstrating strong analytical depth.
-
-🔹 Basic Queries
-
-Listed all unique customer cities
-
-Counted total orders placed in 2017
-
-Calculated total sales per product category
-
-Computed percentage of installment-based payments
-
-Counted customers by state
-
-🔸 Intermediate Queries
-
-Calculated monthly order counts for 2018
-
-Computed average number of products per order by customer city
-
-Calculated revenue contribution (%) by product category
-
-Identified correlation between product price and purchase frequency
-
-Calculated total revenue per seller and ranked sellers by revenue
-
-🔺 Advanced Queries
-
-Calculated moving average of order values per customer using window functions
-
-Computed cumulative monthly sales per year
-
-Calculated year-over-year (YoY) sales growth rate
-
-Measured customer retention rate (repeat purchase within 6 months)
-
-Identified top 3 highest-spending customers per year
 
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
