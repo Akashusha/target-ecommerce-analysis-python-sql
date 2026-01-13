@@ -95,6 +95,7 @@ Jupyter Notebook
 Git & GitHub
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+```
 target-ecommerce-analysis/
 │
 ├── README.md
@@ -105,7 +106,7 @@ target-ecommerce-analysis/
 │
 ├── data/
 │   └── ecommerce_dataset.csv
-
+```
 
 <h2><a class="anchor" id="sql-analysis--queries-covered"></a>SQL Analysis – Queries Covered</h2>
 
