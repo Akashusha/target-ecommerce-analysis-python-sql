@@ -94,7 +94,8 @@ Jupyter Notebook
 
 Git & GitHub
 
-<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+## Project Structure
+
 ```
 target-ecommerce-analysis/
 │
